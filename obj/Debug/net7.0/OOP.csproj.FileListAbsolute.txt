@@ -1,0 +1,14 @@
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\bin\Debug\net7.0\OOP.exe
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\bin\Debug\net7.0\OOP.deps.json
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\bin\Debug\net7.0\OOP.runtimeconfig.json
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\bin\Debug\net7.0\OOP.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\bin\Debug\net7.0\OOP.pdb
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\obj\Debug\net7.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\obj\Debug\net7.0\OOP.AssemblyInfoInputs.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\obj\Debug\net7.0\OOP.AssemblyInfo.cs
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\obj\Debug\net7.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\obj\Debug\net7.0\OOP.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\obj\Debug\net7.0\refint\OOP.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\obj\Debug\net7.0\OOP.pdb
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\obj\Debug\net7.0\OOP.genruntimeconfig.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\OOP\obj\Debug\net7.0\ref\OOP.dll
